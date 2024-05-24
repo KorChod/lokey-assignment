@@ -1,0 +1,12 @@
+[
+  {
+    "article_id": 1,
+    "title": "First Article",
+    "content": "This is the first article"
+  },
+  {
+    "article_id": 2,
+    "title": "Second Article",
+    "content": "This is the second article"
+  }
+]
